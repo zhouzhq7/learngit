@@ -1,2 +1,2 @@
 Git is distributed aversion control system.
-Git is free.
+Git is free software distributed under GPL.
